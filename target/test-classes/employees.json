@@ -1,0 +1,43 @@
+{
+  "Employees": [
+    {
+      "empId": "EMP01",
+      "jobTitle": "Developer",
+      "fullName": "Shivang Yadav",
+      "address": "Indore, MP, India"
+    },
+    {
+      "empId": "EMP02",
+      "jobTitle": "Jr. Developer",
+      "fullName": "Alvin Alexander",
+      "address": "New Delhi, India"
+    },
+    {
+      "empId": "EMP03",
+      "jobTitle": "Manager",
+      "fullName": "Kuldeep Tak",
+      "address": "Mumbai, India"
+    },
+    {
+      "id": "898f",
+      "empId": "EMP04",
+      "address": "ahmedabad",
+      "jobTitle": "QA",
+      "fullName": "Rehan shaikh"
+    },
+    {
+      "id": "897c",
+      "empId": "EMP04",
+      "address": "ahmedabad",
+      "jobTitle": "QA",
+      "fullName": "Rehan shaikh"
+    },
+    {
+      "id": "62c6",
+      "empId": "EMP04",
+      "address": "ahmedabad",
+      "jobTitle": "QA",
+      "fullName": "Rehan shaikh"
+    }
+  ]
+}
