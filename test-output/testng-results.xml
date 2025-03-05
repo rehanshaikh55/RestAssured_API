@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-04T14:39:52 IST" name="Default suite" finished-at="2025-03-04T14:39:54 IST" duration-ms="1580">
+  <suite started-at="2025-03-05T12:00:36 IST" name="Default suite" finished-at="2025-03-05T12:00:38 IST" duration-ms="1760">
     <groups>
     </groups>
-    <test started-at="2025-03-04T14:39:52 IST" name="Default test" finished-at="2025-03-04T14:39:54 IST" duration-ms="1580">
-      <class name="day2.diffPostReqMethods">
-        <test-method signature="usingHashMap()[pri:0, instance:day2.diffPostReqMethods@3754a4bf]" started-at="2025-03-04T14:39:52 IST" name="usingHashMap" finished-at="2025-03-04T14:39:54 IST" duration-ms="1522" status="PASS">
+    <test started-at="2025-03-05T12:00:36 IST" name="Default test" finished-at="2025-03-05T12:00:38 IST" duration-ms="1760">
+      <class name="day3.validateResponsedata">
+        <test-method signature="testJsonResponse()[pri:0, instance:day3.validateResponsedata@28701274]" started-at="2025-03-05T12:00:36 IST" name="testJsonResponse" finished-at="2025-03-05T12:00:38 IST" duration-ms="1723" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- usingHashMap -->
-        <test-method signature="deleteEmp()[pri:1, instance:day2.diffPostReqMethods@3754a4bf]" started-at="2025-03-04T14:39:54 IST" name="deleteEmp" finished-at="2025-03-04T14:39:54 IST" duration-ms="26" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- deleteEmp -->
-      </class> <!-- day2.diffPostReqMethods -->
+        </test-method> <!-- testJsonResponse -->
+      </class> <!-- day3.validateResponsedata -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

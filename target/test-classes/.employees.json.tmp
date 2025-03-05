@@ -4,22 +4,19 @@
       "empId": "EMP01",
       "jobTitle": "Developer",
       "fullName": "Shivang Yadav",
-      "address": "Indore, MP, India",
-      "id": "b61f"
+      "address": "Indore, MP, India"
     },
     {
       "empId": "EMP02",
       "jobTitle": "Jr. Developer",
       "fullName": "Alvin Alexander",
-      "address": "New Delhi, India",
-      "id": "cde5"
+      "address": "New Delhi, India"
     },
     {
       "empId": "EMP03",
       "jobTitle": "Manager",
       "fullName": "Kuldeep Tak",
-      "address": "Mumbai, India",
-      "id": "2981"
+      "address": "Mumbai, India"
     },
     {
       "id": "898f",
@@ -53,28 +50,6 @@
       "id": "6466",
       "empty": false,
       "mapType": "java.util.HashMap"
-    },
-    {
-      "id": "2011",
-      "empty": false,
-      "mapType": "java.util.HashMap"
-    },
-    {
-      "id": "3b2a",
-      "empty": false,
-      "mapType": "java.util.HashMap"
-    },
-    {
-      "id": "56cd",
-      "empty": false,
-      "mapType": "java.util.HashMap"
-    },
-    {
-      "id": "cb5f",
-      "empId": "EMP01",
-      "address": "Indore, MP, India",
-      "jobTitle": "Developer",
-      "fullName": "Shivang Yadav"
     }
   ]
 }
