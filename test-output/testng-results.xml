@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-05T12:00:36 IST" name="Default suite" finished-at="2025-03-05T12:00:38 IST" duration-ms="1760">
+  <suite started-at="2025-03-05T14:13:03 IST" name="Default suite" finished-at="2025-03-05T14:14:07 IST" duration-ms="63411">
     <groups>
     </groups>
-    <test started-at="2025-03-05T12:00:36 IST" name="Default test" finished-at="2025-03-05T12:00:38 IST" duration-ms="1760">
+    <test started-at="2025-03-05T14:13:03 IST" name="Default test" finished-at="2025-03-05T14:14:07 IST" duration-ms="63411">
       <class name="day3.validateResponsedata">
-        <test-method signature="testJsonResponse()[pri:0, instance:day3.validateResponsedata@28701274]" started-at="2025-03-05T12:00:36 IST" name="testJsonResponse" finished-at="2025-03-05T12:00:38 IST" duration-ms="1723" status="PASS">
+        <test-method signature="testJsonResponse()[pri:0, instance:day3.validateResponsedata@28701274]" started-at="2025-03-05T14:13:03 IST" name="testJsonResponse" finished-at="2025-03-05T14:14:07 IST" duration-ms="63373" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJsonResponse -->

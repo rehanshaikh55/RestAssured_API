@@ -74,7 +74,7 @@ public class HttpReq {
 		.when()
 		.delete("https://reqres.in/api/users/"+id)
 		.then()
-		.statusCode(204)
+		.statusCode(204)                                                                                                                                                                                                                                                                                                                                                            
 		.log().all();
 	}
 	

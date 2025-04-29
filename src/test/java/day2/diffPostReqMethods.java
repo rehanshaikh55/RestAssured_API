@@ -43,6 +43,7 @@ public class diffPostReqMethods {
 		
 		JSONObject data = new JSONObject();
 		
+		
 		data.put("empId", "EMP04");
 		data.put("jobTitle", "QA");
 		data.put("fullName", "Rehan shaikh");

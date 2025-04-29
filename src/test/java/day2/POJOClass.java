@@ -6,6 +6,7 @@ public class POJOClass {
 	return empId;
 }
 public void setEmpId(String empId) {
+	
 	this.empId = empId;
 }
 public String getJobTitle() {
